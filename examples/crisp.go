@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/metal3d/gg"
+	""github.com/fogleman/gg"
 )
 
 func main() {

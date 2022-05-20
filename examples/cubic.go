@@ -1,6 +1,6 @@
 package main
 
-import "github.com/metal3d/gg"
+import ""github.com/fogleman/gg"
 
 func main() {
 	const S = 1000

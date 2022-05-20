@@ -3,7 +3,7 @@ package main
 import (
 	"math/rand"
 
-	"github.com/metal3d/gg"
+	""github.com/fogleman/gg"
 )
 
 func CreatePoints(n int) []gg.Point {

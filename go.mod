@@ -1,4 +1,4 @@
-module github.com/metal3d/gg
+module github.com/fogleman/gg
 
 go 1.16
 

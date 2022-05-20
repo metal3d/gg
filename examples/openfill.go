@@ -4,7 +4,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/metal3d/gg"
+	""github.com/fogleman/gg"
 )
 
 func main() {
