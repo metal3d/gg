@@ -3,7 +3,7 @@ package main
 import (
 	"image/color"
 
-	"gg"
+	"github.com/metal3d/gg"
 )
 
 func main() {

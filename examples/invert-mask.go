@@ -1,6 +1,6 @@
 package main
 
-import "gg"
+import "github.com/metal3d/gg"
 
 func main() {
 	dc := gg.NewContext(1024, 1024)

@@ -1,4 +1,4 @@
-module gg
+module github.com/metal3d/gg
 
 go 1.16
 

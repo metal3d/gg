@@ -1,6 +1,6 @@
 package main
 
-import "gg"
+import "github.com/metal3d/gg"
 
 func main() {
 	im, err := gg.LoadPNG("examples/baboon.png")

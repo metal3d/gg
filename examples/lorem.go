@@ -1,6 +1,6 @@
 package main
 
-import "gg"
+import "github.com/metal3d/gg"
 
 var lines = []string{
 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",

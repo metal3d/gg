@@ -4,7 +4,7 @@ import (
 	"math"
 	"math/rand"
 
-	"gg"
+	"github.com/metal3d/gg"
 )
 
 type Point struct {
