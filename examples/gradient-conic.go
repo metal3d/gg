@@ -5,7 +5,7 @@ package main
 import (
 	"image/color"
 
-	""github.com/fogleman/gg"
+	"github.com/metal3d/gg"
 )
 
 func main() {
